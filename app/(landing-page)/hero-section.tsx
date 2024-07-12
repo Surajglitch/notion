@@ -153,12 +153,11 @@ const HeroSection = () => {
         </Link>
       </div>
 
-      <div className="pt-10 xl:pt-20 items-center justify-center">
+      <div className="pt-10 xl:pt-20 flex items-center justify-center mx-auto w-60 xl:w-80 ">
         <Lottie
           options={defaultOptions}
           height={300}
           width={350}
-          className="flex items-center justify-center mx-auto w-60 xl:w-80"
         />
         {/* <Image
           src="/assets/Learning-cuate.svg"
