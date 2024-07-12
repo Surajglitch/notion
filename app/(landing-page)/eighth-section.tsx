@@ -16,7 +16,7 @@ const GetStartedFree = () => {
         </div>
 
         <Image
-          src="/assets/Free.svg"
+          src="/assets/free.svg"
           alt="hero image"
           width={1000}
           height={1000}
